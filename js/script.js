@@ -1,8 +1,8 @@
 const options = {
-  bottom: 'unset', // default: '32px'
-  right: '34px', // default: '32px'
+  bottom: '32px', // default: '32px'
+  right: '1.5rem', // default: '32px'
   left: 'unset', // default: 'unset'
-  time: '0.3s', // default: '0.3s'
+  time: '0.4s', // default: '0.3s'
   mixColor: '#fff', // default: '#fff'
   backgroundColor: '#fff',  // default: '#fff'
   buttonColorDark: '#100f2c',  // default: '#100f2c'
