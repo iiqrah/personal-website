@@ -6,7 +6,6 @@ body
 
 .poem
 {
-  padding-top: 1.5rem;
-  padding-bottom: 1.5rem;
+  padding: 1.5rem auto;
   border: 10px solid coral;
 }
